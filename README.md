@@ -8,9 +8,9 @@ A simple Ethereum lottery contract where players can buy tickets and the winner 
 
 The SimpleLottery contract constructor takes three arguments:
 
-ticketPrice: The price of a single ticket in wei.
-ticketCount: The maximum number of tickets that can be sold.
-_durationInMinutes: The duration of the lottery period in minutes.
+- _ticketPrice: The price of a single ticket in wei.
+- _ticketCount: The maximum number of tickets that can be sold.
+- _durationInMinutes: The duration of the lottery period in minutes.
 
 ### Buying Tickets
 
